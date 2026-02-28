@@ -1,0 +1,14 @@
+# Core GUI and Logic
+PyQt6==6.7.0
+pyqtgraph==0.13.4
+
+# AI and Transcription
+faster-whisper==1.0.2
+torch==2.3.1
+openai==1.35.3
+
+# Media Handling
+ffmpeg-python==0.2.0
+python-vlc==3.0.21203
+numpy==1.26.4
+librosa==0.10.2
